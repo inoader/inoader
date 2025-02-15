@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-目前福州大学计算机专业大三在读
+福州大学计算机专业大三在读，noip一等奖，icpc区域赛银牌，ccpc邀请赛金牌
 
-主业打算法竞赛，业余爱好炒股
-
-正在准备xcpc竞赛的最后一年，退役后会考虑学习软件开发知识，优先找工作，不考虑读研
+正在找cpp相关岗位的暑期实习
 <!--
 **inoader/inoader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
