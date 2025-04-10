@@ -2,7 +2,6 @@
 
 福州大学计算机专业大三在读，noip一等奖，icpc区域赛银牌，ccpc邀请赛金牌
 
-正在找cpp相关岗位的暑期实习
 <!--
 **inoader/inoader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
